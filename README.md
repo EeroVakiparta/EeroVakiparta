@@ -2,7 +2,7 @@
 - 👀 I’m interested in ways people learn
 - 🌱 I’m currently learning Rust
 - 💞️ I’m looking to collaborate on anything.
-- 📫 How to reach me eero_vakiparta@hotmail.com
+- 📫 How to reach me eero_vakiparta (a) hotmail.com
 
 <!---
 EeroVakiparta/EeroVakiparta is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
