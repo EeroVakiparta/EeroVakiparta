@@ -11,7 +11,7 @@ You can click the Preview link to take a look at your changes.
 
 
 <a href="https://github.com/eerovakiparta/github-readme-stats">
-  <img align="top" src="https://github-readme-stats.vercel.app/api?username=eerovakiparta&hide=contribs&count_private=true&theme=dracula&show_icons=true" alt="Eero's GitHub Stats" />
+  <img align="top" src="https://github-readme-stats.vercel.app/api?username=eerovakiparta&hide=contribs&count_private=true&theme=dracula&show_icons=true&rank_icon=percentile" alt="Eero's GitHub Stats" />
 </a>
 
 <a href="https://github.com/eerovakiparta/github-readme-stats">
